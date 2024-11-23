@@ -65,16 +65,21 @@ Only Mtech TA: Based on GATE Score & Admission happens in June/July session each
 MTech TA: Based on GATE Score & Admission happens in June/July session each year.
 MTech RA (3 yrs): GATE + B.Tech CGPA + Interview (Admission happens twice a year for July as well as January session)
 
+
 **Conclusion**
 MTech TA: 2 yrs
 Mtech RA: 3 yrs
 MS(R): 2.5 - 3 yrs
 
 For Placements: Mtech TA = Mtech RA = MS(R) in all this IITs.
-**Note: IISc don't have winter programme only PhD. MTech is July session programme with less TA work.**
+
+**Note: IISc have winter programme MS and PhD (But MS admission depends on particular year). MTech is July session programme with less TA work.**
+
 Future Scopes: 
+
 MTech TA: Good for Placements.
 MTech RA = MS(R): Good for placements also have an edge over TAs for Research oriented work + Future scope for foreign PhD from World's best universities. Also in India for PhD from IITs/IISc.
+
 
 Roles mostly offered:
 MTech TA: SDE, Data Science, MLE, AI and good profiles from top tier Tech giants.
